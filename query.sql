@@ -1,0 +1,1 @@
+SELECT * FROM mulesoft.fav_movie;
